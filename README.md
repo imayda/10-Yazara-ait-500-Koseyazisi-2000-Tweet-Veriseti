@@ -20,5 +20,7 @@ Veri kümesindeki örnek sayısı: 10 x 50 = 500 köşe yazısı, 10 x 200 = 200
 
 **Veri kümesi üzerinde yapılan çalışmaya dair yayın:**
 
-https://www.researchgate.net/publication/303772480_Cross_usage_of_articles_and_tweets_on_author_identification
+IEEE Xplore: https://ieeexplore.ieee.org/document/7483676/
+
+ResearchGate: https://www.researchgate.net/publication/303772480_Cross_usage_of_articles_and_tweets_on_author_identification
 
