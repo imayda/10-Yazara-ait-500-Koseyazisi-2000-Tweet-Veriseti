@@ -4,7 +4,7 @@
 
 **"Tweetler"** klasörü "Köşe_Yazıları" klasöründeki 10 yazara ait 200'er, toplamda 2000 tweeti içermektektedir. Bu klasörde her yazar için bir metin dosyası bulunmaktadır. Bu metin dosyaları, her satırında bir tweet olmak üzere 200 satırdan oluşmaktadır.
 
-Bu veri kümesi yazar tanıma çalışmalarında kullanılabilir.
+Bu veri kümesi **yazar tanıma** çalışmalarında kullanılabilir.
 
 Veri kümesindeki sınıf sayısı: 10
 
